@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Projects_dont_move/Projects_Pending/Frank Hertz/Reports/Presentation/my-project/media/videos/main/480p30/partial_movie_files/LambdaFitting/3161293378_2268332985_3768983718.mp4'
+file 'file:E:/Projects_dont_move/Projects_Pending/Frank Hertz/Reports/Presentation/my-project/media/videos/main/480p30/partial_movie_files/LambdaFitting/4088896323_3830117154_1816237811.mp4'
+file 'file:E:/Projects_dont_move/Projects_Pending/Frank Hertz/Reports/Presentation/my-project/media/videos/main/480p30/partial_movie_files/LambdaFitting/4088896323_634017564_849216689.mp4'
